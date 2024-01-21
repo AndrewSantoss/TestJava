@@ -13,7 +13,7 @@ Dependencias utilizadas:
 
 Informações:
 Link de acesso ao banco: http://localhost:8080/h2-console/login.jsp?jsessionid=94aaf563890b4a2111e6f725724188c7
-JDBC URL: jdbc:h2:mem:banco
+JDBC URL: jdbc:h2:mem:testdb
 User: banco
 Password: 123456789
 O arquivo "import.sql" foi utilizado para adicionar informações ao banco.
