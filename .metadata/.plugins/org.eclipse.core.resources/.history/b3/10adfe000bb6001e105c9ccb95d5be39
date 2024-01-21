@@ -1,0 +1,5 @@
+package com.enterprise.management.repositories;
+
+public class EmployeesRepository {
+
+}

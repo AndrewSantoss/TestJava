@@ -1,0 +1,5 @@
+INSERT INTO TB_EMPLOYEES(AGE, CEP, ADDRESS, CITY, NAME, SEX, STATE, ZONE) VALUES (18, 66454010, 'Alameda Madeira, 162', 'Barueri', 'Andrew', 'M', 'São Paulo', 'Alphaville');
+INSERT INTO TB_EMPLOYEES(AGE, CEP, ADDRESS, CITY, NAME, SEX, STATE, ZONE) VALUES (25, 64571020, 'Rua Augusta, 123', 'São Paulo', 'Maria', 'F', 'São Paulo', 'Centro');
+INSERT INTO TB_EMPLOYEES(AGE, CEP, ADDRESS, CITY, NAME, SEX, STATE, ZONE) VALUES (30, 22041010, 'Avenida Atlântica, 456', 'Rio de Janeiro', 'John', 'M', 'Rio de Janeiro', 'Copacabana');
+INSERT INTO TB_EMPLOYEES(AGE, CEP, ADDRESS, CITY, NAME, SEX, STATE, ZONE) VALUES (22, 30110000, 'Rua dos Aimorés, 789', 'Belo Horizonte', 'Emily', 'F', 'Minas Gerais', 'Centro');
+INSERT INTO TB_EMPLOYEES(AGE, CEP, ADDRESS, CITY, NAME, SEX, STATE, ZONE) VALUES (28, 70070900, 'Esplanada dos Ministérios, Bloco A', 'Brasília', 'Carlos', 'M', 'Distrito Federal', 'Asa Sul');
