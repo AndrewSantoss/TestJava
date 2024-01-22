@@ -10,9 +10,10 @@ Dependencias utilizadas:
 1 - Spring Web
 2 - Spring Data JPA
 3 - H2 Database
+4 - Validation**
 
 Informações:
-Link de acesso ao banco: http://localhost:8080/h2-console/login.jsp?jsessionid=94aaf563890b4a2111e6f725724188c7
+Link de acesso ao banco: http://localhost:8080/h2-console
 JDBC URL: jdbc:h2:mem:testdb
 User: banco
 Password: 123456789
@@ -20,7 +21,7 @@ O arquivo "import.sql" foi utilizado para adicionar informações ao banco.
 
 Classe "Employees" foi utilizada para a criação das entidades.
 Classe "EmployeesRepository" foi utilizada acessar os dados do banco.
-Classe "EmployeeController" utilizada para receber e responder as requisições.
+Classe "EmployeeController" foi utilizada para receber e responder as requisições.
 
 1ª Etapa
 Ok
