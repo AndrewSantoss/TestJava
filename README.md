@@ -4,7 +4,7 @@ Criação de um sistema de gerenciamento de funcionarios de uma empresa pequena 
 Caracteristicas:
 Maven Project
 Linguagem Java 17
-Spring Boot 3.2.2
+Spring Boot 3.2.1
 
 Dependencias utilizadas:
 1 - Spring Web
